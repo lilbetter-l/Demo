@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch L",
+            "request": "launch",
+            "mainClass": "L",
+            "projectName": "Demo_3160cdf4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "${file}"
+        }
+    ]
+}
